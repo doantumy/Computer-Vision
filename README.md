@@ -10,7 +10,7 @@ The objective of the last practical session is to perform 3D reconstruction usin
 * For this project, you will be given a series of color and depth image pairs (most of them were acquired for calibration purpose, the last pair corresponds to the scene to reconstruct using a point cloud).
 * A point cloud (in the 3D world reference frame) is a way to represent the external surface of an object
 * Your work is now to complete the following tasks:
-⋅⋅1. Calibrate the two RGB cameras using the checkerboard calibration technique.
+1. Calibrate the two RGB cameras using the checkerboard calibration technique.
 
 
 
