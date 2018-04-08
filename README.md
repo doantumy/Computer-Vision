@@ -13,9 +13,9 @@ The objective of the last practical session is to perform 3D reconstruction usin
 # Submission
 Your work is now to complete the following tasks:
 1. Calibrate the two RGB cameras using the checkerboard calibration technique.
-1.1.	Detect the corner points of the checkerboard
-1.2.	Calibrate each camera separately (to get intrinsic parameters)
-1.3.	Calibrate one camera with respect of each other(to get extrinsic parameters)
+* Detect the corner points of the checkerboard
+* Calibrate each camera separately (to get intrinsic parameters)
+* Calibrate one camera with respect of each other(to get extrinsic parameters)
 
 
 
