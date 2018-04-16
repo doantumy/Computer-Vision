@@ -29,7 +29,7 @@ Your work is now to complete the following tasks:
 # Material and References 
 * Microsoft Kinect V2 & Windows adapter for PC. 
 * Acquisition Using Kinect for Windows Hardware http://es.mathworks.com/help/imaq/acquisition-using-kinect-for-windows-hardware.html?requestedDomain=www.mathworks.com 
-* MATLAB and Simulink http://es.mathworks.com/hardware-support/kinect-windows.html?requestedDomain=www.mathworks.com . Microsoft Kinect for Windows Support from Image Acquisition Toolbox. 
+* MATLAB and Simulink http://es.mathworks.com/hardware-support/kinect-windows.html?requestedDomain=www.mathworks.com
 * Simulink Support for Kinect http://www.mathworks.com/matlabcentral/fileexchange/32318-simulink-support-for-kinect 
 * Kinect 2 Interface for Matlab (http://www.mathworks.com/matlabcentral/fileexchange/53439-kinect-2-interface-for-matlab) 
 
