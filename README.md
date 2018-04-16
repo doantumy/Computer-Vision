@@ -1,5 +1,5 @@
 # Computer Vision Project - 3D Reconstruction using Kinect V2 
-The working files will be updated on 16 April 2018
+The working files will be updated on 20 April 2018
 
 # Purpose
 The objective of the last practical session is to perform 3D reconstruction using a pair of Kinect V2 camera.
