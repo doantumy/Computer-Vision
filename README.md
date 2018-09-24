@@ -33,6 +33,10 @@ Your work is now to complete the following tasks:
 * Kinect 2 Interface for Matlab (http://www.mathworks.com/matlabcentral/fileexchange/53439-kinect-2-interface-for-matlab) 
 
 
+## Contributors
+
+* [Tuan-Anh TRAN](https://github.com/trantuananhvn93) 
+* [Tu-My DOAN](https://github.com/doantumy) 
 
 
 
